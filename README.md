@@ -1,6 +1,10 @@
 # 3CardComponent
 Its a practice challenge by frontend master. Making it to responsiveness. Its a fun coding and learning css. Happy coding!
 
+### View here
+
+[visit here](https://abieproject11-3cardcomponent.netlify.app)
+
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
