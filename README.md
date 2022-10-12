@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Frontend Mentor - 3-column preview card component
-=======
 # 3CardComponent
 Its a practice challenge by frontend master. Making it to responsiveness. Its a fun coding and learning css. Happy coding!
->>>>>>> f5b1d434cffb90737c02393262dc9541913a4955
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
